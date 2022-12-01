@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Stefan Maring,
 
-A web developer from the Netherlands, currently I'm still studying programming,\
+A web developer from the Netherlands, currently I'm studying computer science,\
 at the moment I work a lot with PHP, but also with other languages such as: 
 
 - Javascript
