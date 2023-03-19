@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Stefan Maring,
+### 👋 Hi there, I’m Stefan,
 
 A web developer from the Netherlands, currently I'm studying computer science,\
 at the moment I work a lot with PHP, but also with other languages such as: 
